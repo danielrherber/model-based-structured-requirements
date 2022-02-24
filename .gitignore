@@ -1,0 +1,11 @@
+!.gitignore
+
+# ignore certain file extensions
+*.bak
+*.ini
+*.asv
+
+# ignore certain folders
+.private*/
+
+# ignore specific files
