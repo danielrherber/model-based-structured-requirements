@@ -7590,17 +7590,17 @@
       <text
          x="612"
          xml:space="preserve"
-         y="622.958"
+         y="622.95801"
          clip-path="url(#clipPath12)"
          stroke="none"
-         id="text755">Attributes numbered and derived from</text>
+         id="text755">Attributes numbered and derived</text>
       <text
          x="612"
          xml:space="preserve"
-         y="635.2471"
+         y="635.24707"
          clip-path="url(#clipPath12)"
          stroke="none"
-         id="text756"> source: INCOSE Needs and </text>
+         id="text756">from source: INCOSE Needs and </text>
       <text
          x="612"
          xml:space="preserve"
@@ -7614,14 +7614,14 @@
          y="659.8252"
          clip-path="url(#clipPath12)"
          stroke="none"
-         id="text758">INCOSE-TP-2021-002-01, Vers/Rev: </text>
+         id="text758">INCOSE-TP-2021-002-01,</text>
       <text
          x="612"
          xml:space="preserve"
-         y="672.1143"
+         y="672.11432"
          clip-path="url(#clipPath12)"
          stroke="none"
-         id="text759">1.1, May 2022</text>
+         id="text759">Vers/Rev: 1.1, May 2022</text>
       <text
          x="681.7114"
          xml:space="preserve"
@@ -7681,24 +7681,24 @@
       <text
          x="283"
          xml:space="preserve"
-         y="924.1143"
+         y="924.11432"
          clip-path="url(#clipPath12)"
          stroke="none"
-         id="text765">Abstract&quot; is set to true, and a new </text>
+         id="text765">Abstract&quot; is set to true, and a</text>
       <text
          x="283"
          xml:space="preserve"
-         y="936.4033"
+         y="936.40332"
          clip-path="url(#clipPath12)"
          stroke="none"
-         id="text766">element cannot be made with this </text>
+         id="text766">new element cannot be made</text>
       <text
          x="283"
          xml:space="preserve"
-         y="948.6924"
+         y="948.69238"
          clip-path="url(#clipPath12)"
          stroke="none"
-         id="text767">stereotype.</text>
+         id="text767">with this stereotype.</text>
       <text
          x="337.4199"
          xml:space="preserve"
@@ -7724,21 +7724,21 @@
          y="313.2471"
          clip-path="url(#clipPath12)"
          stroke="none"
-         id="text770">product lines are not applicable to </text>
+         id="text770">product lines are not applicable </text>
       <text
          x="563"
          xml:space="preserve"
          y="325.5361"
          clip-path="url(#clipPath12)"
          stroke="none"
-         id="text771">Needs and Need Sets according to </text>
+         id="text771">to Needs and Need Sets</text>
       <text
          x="563"
          xml:space="preserve"
          y="337.8252"
          clip-path="url(#clipPath12)"
          stroke="none"
-         id="text772">the INCOSE GtWR.</text>
+         id="text772">according to the INCOSE GtWR.</text>
       <text
          x="659.5723"
          xml:space="preserve"
@@ -7754,45 +7754,45 @@
       <text
          x="1130"
          xml:space="preserve"
-         y="769.958"
+         y="769.95801"
          clip-path="url(#clipPath12)"
          stroke="none"
-         id="text774">Attribute multiplicity is defined as</text>
+         id="text774">Attribute multiplicity is defined</text>
       <text
          x="1130"
          xml:space="preserve"
-         y="782.2471"
+         y="782.24707"
          clip-path="url(#clipPath12)"
          stroke="none"
-         id="text775"> minimum 1 when the attribute is </text>
+         id="text775">as minimum 1 when the attri-</text>
       <text
          x="1130"
          xml:space="preserve"
-         y="794.5361"
+         y="794.53607"
          clip-path="url(#clipPath12)"
          stroke="none"
-         id="text776">required, causing the automatic </text>
+         id="text776">bute is required, causing the</text>
       <text
          x="1130"
          xml:space="preserve"
          y="806.8252"
          clip-path="url(#clipPath12)"
          stroke="none"
-         id="text777">UML completeness validation </text>
+         id="text777">automatic UML completeness</text>
       <text
          x="1130"
          xml:space="preserve"
-         y="819.1143"
+         y="819.11432"
          clip-path="url(#clipPath12)"
          stroke="none"
-         id="text778">suite to trigger a warning if the </text>
+         id="text778">validation suite to trigger a</text>
       <text
          x="1130"
          xml:space="preserve"
-         y="831.4033"
+         y="831.40332"
          clip-path="url(#clipPath12)"
          stroke="none"
-         id="text779">attribute is missing a value.</text>
+         id="text779">warning if the attribute is</text>
       <text
          x="1262.6714"
          xml:space="preserve"
@@ -7825,14 +7825,14 @@
          y="423.5361"
          clip-path="url(#clipPath12)"
          stroke="none"
-         id="text783">attributes in the SysML Profile or</text>
+         id="text783">attributes in the SysML Profile</text>
       <text
          x="647"
          xml:space="preserve"
          y="435.8252"
          clip-path="url(#clipPath12)"
          stroke="none"
-         id="text784"> MBSR stereotypes are </text>
+         id="text784">or MBSR stereotypes are </text>
       <text
          x="647"
          xml:space="preserve"
@@ -8349,6 +8349,14 @@
          clip-path="url(#clipPath12)"
          stroke="rgb(66,66,66)"
          id="path833" />
+      <text
+         x="1130"
+         xml:space="preserve"
+         y="831.40332"
+         clip-path="url(#clipPath12)"
+         stroke="none"
+         id="text1"
+         transform="translate(0,12.279678)">missing a value.</text>
     </g>
   </g>
 </svg>

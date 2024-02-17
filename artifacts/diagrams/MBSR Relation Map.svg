@@ -2039,7 +2039,7 @@
          y="13"
          clip-path="url(#clipPath32)"
          stroke="none"
-         id="text125">Mass_Target=5 &lt;= Regolith_Sample_Mass &lt;= 10</text>
+         id="text125">Mass_Target=.5 &lt;= Regolith_Sample_Mass &lt;= 1</text>
     </g>
     <g
        text-rendering="geometricPrecision"
