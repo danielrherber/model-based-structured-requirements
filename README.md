@@ -52,4 +52,4 @@ For additional info, please contact [danielrherber](https://github.com/danielrhe
 
 ## License
 
-*(TBD)*
+Models are licensed under [MIT](./LICENSE). Images are licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
