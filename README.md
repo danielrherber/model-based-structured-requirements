@@ -6,11 +6,11 @@ This repository contains SysML Profiles and example models for Model-Based Struc
 
 - **[Artifacts](./Artifacts/)** - Resources used in the model profile and generated diagrams for publications
 - **[Examples](./Examples/)** - Example SysML models using the MBSR Profile
-    - **[Thrust Reverser Actuation System (TRAS)](./Examples/Thrust_Reverser_Actuation_System/)** - aircraft subsystem example using the Carson-style MBSR pattern
-    - **[Unmanned Aerial Vehicle (UAV)](./Examples/Unmanned_Aerial_Vehicle/)** - UAV computational systems example of the Carson-style MBSR pattern
+    - **[Thrust Reverser Actuation System (TRAS)](./Examples/Thrust_Reverser_Actuation_System/)** - aircraft subsystem example using the Plain-Language MBSR pattern
+    - **[Unmanned Aerial Vehicle (UAV)](./Examples/Unmanned_Aerial_Vehicle/)** - UAV computational systems example of the Plain-Language MBSR pattern
     - **[Asteroid Sample Retrieval Spacecraft](./Examples/Asteroid_Sample_Retrieval_Spacecraft/)** - example usage of the ISO/INCOSE-style MBSR pattern
 - **[Profiles](./Profiles/)**
-    - **[MBSR Carson Pattern](./Profiles/MBSR_Carson_Pattern.mdzip)** - MBSRs using the "[Who] *shall* [What] [How Well] [Condition]" statement pattern<sup>1</sup>
+    - **[MBSR Plain-Language Pattern](./Profiles/MBSR_Plain-Language_Pattern.mdzip)** - MBSRs using the "[Who] *shall* [What] [How Well] [Condition]" statement pattern<sup>1</sup>
     - **[MBSR ISO/INCOSE Pattern](./Profiles/MBSR_ISO-INCOSE.mdzip)** - MBSRs using the "[Condition] [Subject] *shall* [Action] [Object] [Constraint of Action]" statement pattern<sup>2</sup> and augmented with model-based *INCOSE Guide to Writing Requirements*<sup>3</sup>
 - **[Publications](./Publications/)** - Papers and posters with BibTeX citations. See below for details.
 
